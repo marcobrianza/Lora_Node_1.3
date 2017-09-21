@@ -26,7 +26,7 @@ Some practial examples with wrapping of the LMIC in more Arduinistic way are her
 [https://github.com/marcobrianza/LoraNode_Examples](https://github.com/marcobrianza/LoraNode_Examples)
 
 To use it as gateway this repo:  
-[https://[github.com/marcobrianza/ESP-1ch-Gateway-v4.0/tree/LoraNode_1.3](github.com/marcobrianza/ESP-1ch-Gateway-v4.0/tree/LoraNode_1.3) 
+[https://github.com/marcobrianza/ESP-1ch-Gateway-v4.0/tree/LoraNode_1.3](https://github.com/marcobrianza/ESP-1ch-Gateway-v4.0/tree/LoraNode_1.3) 
 
 ## Usage Notes
 The pinout is as the following table  
